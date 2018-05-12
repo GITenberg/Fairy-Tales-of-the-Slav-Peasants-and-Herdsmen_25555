@@ -1,0 +1,37 @@
+_repo: Fairy-Tales-of-the-Slav-Peasants-and-Herdsmen_25555
+_version: 0.1.0
+contributor:
+  illustrator: &id001
+    agent_name: Harding, Emily J.
+    gutenberg_agent_id: '31419'
+    url: http://www.gutenberg.org/2009/agents/31419
+  translator: *id001
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chodzko, Alexander
+    alias: Chodsko, Alexander
+    birthdate: 1804
+    deathdate: 1891
+    gutenberg_agent_id: '31420'
+    url: http://www.gutenberg.org/2009/agents/31420
+    wikipedia: http://en.wikipedia.org/wiki/Aleksander_Chod%C5%BAko
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Folklore
+gutenberg_issued: '2008-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Slavic countries'
+- !lcc 'PZ'
+title: Fairy Tales of the Slav Peasants and Herdsmen
+url: http://www.gutenberg.org/ebooks/25555
